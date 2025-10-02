@@ -56,8 +56,12 @@ If you’d like to help prepare materials, suggest topics, or join our research 
 
 ## 📬 Contact
 
-- **Association President**: [Your Name]  
-- **Email**: [your.email@epfl.ch]  
+- **Association President**: Arthur Dhonneur  
+- **Vice President - Hedge Fund**: Charaf Dabi
+- **Vice President - Event/Sponsorship**: Joe El Hayek
+- **Vice President - Communication**: Hana Hussein
+- **Vice President - Podcast**: Andrew El 
+- **Email**: tfa@epfl.ch
 - **Location**: EPFL Campus, Lausanne  
 
 Stay tuned for events and updates! 🚀  
